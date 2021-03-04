@@ -23,6 +23,8 @@ You need Python 3 and Git installed.To fetch the program, paste the following:
 ## Usage
 Print a user's name and favorite day of the week.
 
+<a href="https://gyazo.com/45b821206a1d4f2e7835f36db2ab9630"><img src="https://i.gyazo.com/45b821206a1d4f2e7835f36db2ab9630.gif" alt="Image from Gyazo" width="812"/></a>
+
 ---
 
 ## How to Contribute
