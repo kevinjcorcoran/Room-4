@@ -30,10 +30,10 @@ If you would like to contribute to this project, you can fork the code from GitH
 
 ---
 
-## Reason for License
+## Reasoning for License
 We choose to use a 3-Clause BSD License because it allows us to have open source software but also control the ways in which it is modified as well as the versions of the software that get distributed. It also ensures that any redistributed copy of the program in binary form will have the same conditions and disclaimers that the main github repository has. The final clause allows us to control who can use our names and the names of any other collaborators in the promotion of any version of this software.
 
 ---
 
-## Reason for Code of Conduct
+## Reasoning for Code of Conduct
 We chose the Contributor Covenant for our Code of Conduct because it sets up a broad set of rules that ensures that the repository remains a healthy community that can thrive.
